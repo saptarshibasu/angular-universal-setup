@@ -17,7 +17,7 @@ This is a small Angular Universal starter project. The project has the following
 4. Run `vagrant up`
 5. Run `vagrant fsnotify`
 
-Note: Wait for 2-3 minutes after `vagrant up` exits for the URL http://localhost:4200 become available
+Note: Wait for 2-3 minutes after `vagrant up` exits for the URL http://localhost:4200 become available. Also, the fsnotify takes a few minutes before it starts listening to changes.
 
 ## The Steps to run the application in a Docker container
 1. Remove the environment variable - MYENV=DEV
